@@ -226,9 +226,9 @@ const degrees = {
       alt_name: "VIT Vellore",
       duration: "2012 - 2016",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, OOPS, etc.",
+        "⚡ Apart from this, I have done courses on DevOps, Cloud Computing and Java.",
+        "⚡ Passed with 7.81 cumulative GPA.",
       ],
       website_link: "http://vit.ac.in",
     },
