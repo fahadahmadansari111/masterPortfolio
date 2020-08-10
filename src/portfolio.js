@@ -31,7 +31,7 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
-      title: "Continous Integration and Coninuous Deployment",
+      title: "Continuous Integration and Continuous Deployment",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Using Jenkins to do continous integration and continous deployment of code automatically",
